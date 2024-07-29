@@ -1,0 +1,6 @@
+[submodule "Linux-Shell"]
+	path = Linux-Shell
+	url = https://github.com/Manvi-Agrawal/Linux-Shell
+[submodule "P2P"]
+	path = P2P
+	url = https://github.com/Manvi-Agrawal/P2P
