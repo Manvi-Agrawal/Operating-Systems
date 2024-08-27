@@ -4,3 +4,6 @@
 [submodule "P2P"]
 	path = P2P
 	url = https://github.com/Manvi-Agrawal/P2P
+[submodule "Modified-Dining-Philospher"]
+	path = Modified-Dining-Philospher
+	url = https://github.com/Manvi-Agrawal/Modified-Dining-Philospher.git
